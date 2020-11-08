@@ -58,11 +58,13 @@
   transform-origin: 70% 70%;
 }
 
+
 /* Custom  */
 .greeting-home-image {
   border-radius: 50px;
   margin: 30px;
 }
+
 
 @keyframes wave {
   0% {
@@ -112,5 +114,9 @@
   }
   .greeting-main {
     display: block;
+  }
+  /* Custom  */
+  .greeting-home-image {
+    margin: 0px;
   }
 }

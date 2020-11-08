@@ -53,16 +53,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node",
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm",
-    },
-    {
       skillName: "php",
       fontAwesomeClassname: "fab fa-php",
     },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python",
+    },
+    {
+      skillName: "laravel",
+      fontAwesomeClassname: "fab fa-laravel",
     },
     {
       skillName: "sql-database",
@@ -77,8 +77,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-fire",
     },
     {
+      skillName: "Digital Ocean",
+      fontAwesomeClassname: "fab fa-digital-ocean",
+    },
+    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker",
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git",
     },
     {
       skillName: "html-5",
@@ -255,16 +263,25 @@ const achievementSection = {
         },
       ],
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Digital Business Discovery",
+      subtitle: "ASP .net MVC Core 2.0 Solution for urban mobility, municipal and intermunicipal transport App winner of Digital Business Discovery Iteration XII, Apps.co",
+      image: require("./assets/images/appsco.jpg"),
       footerLink: [
-        { name: "Certification", url: "" },
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/",
+          url: "https://github.com/TransportCenter",
+        },
+      ],
+    },
+    {
+      title: "BID CITIES LAB International University Contest",
+      subtitle: "Completed Certification from First and Second Phase Architectural competition in the construction of a patriotic asylum in Chile - Mata Sur",
+      image: require("./assets/images/citi.jpeg"),
+      footerLink: [
+        {
+          name: "Final Project",
+          url: "https://github.com/supermavster/Conecta-Web",
         },
       ],
     },
