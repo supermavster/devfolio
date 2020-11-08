@@ -79,9 +79,9 @@ const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/supermavster",
   linkedin: "https://www.linkedin.com/in/supermavster/",
-  gmail: "supermavster70@gmail.com",
+  gmail: "ingeniero.miguelvargas@gmail.com",
   gitlab: "https://gitlab.com/supermavster",
-  facebook: "https://www.facebook.com/supermavster.pasta7"
+  facebook: "https://www.facebook.com/....."
 };
 
 

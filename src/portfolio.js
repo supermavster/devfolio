@@ -51,7 +51,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node",
+      fontAwesomeClassname: "fab fa-node-js",
     },
     {
       skillName: "php",
@@ -82,12 +82,33 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-digital-ocean",
     },
     {
+      skillName: "BitBucket",
+      fontAwesomeClassname: "fab fa-bitbucket",
+    },
+    {
+      skillName: "Github Actions",
+      fontAwesomeClassname: "fab fa-github",
+    },
+    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker",
     },
     {
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux",
+    },
+    
+    {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git",
+    },
+    {
+      skillName: "yarn",
+      fontAwesomeClassname: "fab fa-yarn",
+    },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm",
     },
     {
       skillName: "html-5",
@@ -100,6 +121,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "sass",
       fontAwesomeClassname: "fab fa-sass",
+    },
+    {
+      skillName: "Markdown",
+      fontAwesomeClassname: "fab fa-markdown",
     },
   ],
 };
@@ -118,6 +143,14 @@ const educationInfo = {
       descBullets: [
         "I become part of the 1% of the students to complete the Master Program.",
       ],
+    },
+    {
+      schoolName: "Servicio Nacional de Aprendizaje - SENA",
+      logo: require("./assets/images/sena.jpg"),
+      subHeader: "Software Quality, Analysis, Design and Testing",
+      duration: "February 2018 - October 2019",
+      desc:
+        "Feedback and Learning in the basic competences and diverse architectures that all software must have when managing the software engineering in a project.",
     },
     {
       schoolName: "Universidad de Boyacá",
