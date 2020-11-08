@@ -9,16 +9,17 @@
 .meter > span {
     display: block;
     height: 100%;
-    border-top-right-radius: 6px;
-    border-bottom-right-radius: 6px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    background-color: #aaa5ff;
+    background-color: #1a2226;
+    border-color: #1a2226;
     position: relative;
     overflow: hidden;
 }
 .skill{
-    line-height: 3.5vw;
+    line-height: 1.5vw;
 }
 .skill-bars{
     font-size: 28px;

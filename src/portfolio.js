@@ -34,10 +34,11 @@ const skillsSection = {
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / Google Cloud / Heroku"
     ),
+    emoji("⚡ Documented information of functions, initial steps, configurations, implementations, automatic deployments in BitBucket or Github Actions."),
     emoji(
       "⚡ Develop scalable stacks / backend templates in different languages"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Production and maintenance of websites."),
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -135,16 +136,34 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
+      Stack: "PHP",
+      progressPercentage: "91%",
+    },
+    {
+      Stack: "JavaScript",
+      progressPercentage: "86%",
+    },
+    {
+      Stack: "TypeScript",
+      progressPercentage: "78%",
+    },
+    {
+      Stack: "Python",
+      progressPercentage: "72%",
+    },
+    {
       Stack: "Backend",
       progressPercentage: "90%",
     },
+
     {
       Stack: "DevOps",
-      progressPercentage: "80%",
+      progressPercentage: "70%",
     },
+
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
+      Stack: "Frontend",
+      progressPercentage: "60%",
     },
   ],
 };
