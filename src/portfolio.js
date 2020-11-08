@@ -28,15 +28,16 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "FULL STACK DEVELOPER (EMPHASIS BACKEND) WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / Google Cloud / Heroku"
+    ),
+    emoji(
+      "⚡ Develop scalable stacks / backend templates in different languages"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    ),
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -103,21 +104,19 @@ const educationInfo = {
       schoolName: "Platzi",
       logo: require("./assets/images/platzi.png"),
       subHeader: "Platzi Master - Backend Developer & Data Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      duration: "February 2020 - Present",
+      desc: "Platzi is the best LATAM online education platform, with subscription.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "I become part of the 1% of the students to complete the Master Program.",
       ],
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      schoolName: "Universidad de Boyacá",
+      logo: require("./assets/images/uniboyaca.jpg"),
+      subHeader: "Systems Engineer",
+      duration: "February 2015 - September 2019",
       desc:
-        "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"],
+        "Solid knowledge of the mathematical and theoretical foundations of Computing, Software Industry, through the conception and creation of environments, installations and innovative projects of computer applications.",
     },
   ],
 };
@@ -132,7 +131,7 @@ const techStack = {
       progressPercentage: "90%",
     },
     {
-      Stack: "Programming",
+      Stack: "DevOps",
       progressPercentage: "80%",
     },
     {
@@ -148,32 +147,37 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Tech lead Backend - Fullstack Developer",
+      company: "Kubo S.A.S.",
+      companylogo: require("./assets/images/kubo.png"),
+      date: "Sept 2019 – Sept 2020",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Communication developed between servers and third-party services in Backend API Rest.",
+        "Documented information of functions, initial steps, configurations, implementations, automatic deployments in BitBucket or Github Actions.",
+        "Guidance to a team of web developers to improve practices and good development environments."
       ],
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Fullstack Developer",
+      company: "AppSolution S.A.S.",
+      companylogo: require("./assets/images/appsolution.png"),
+      date: "Jun 2019 – Sep 2019",
+      descBullets: [
+        "Production and maintenance of websites.",
+        "Use and implementation of web tools and knowledge (HTML5, SCSS and Javascript) to customize the CMS components and adapt them to the client's needs.",
+        "Creation of REST API Services",
+      ],
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Fullstack Developer",
+      company: "Cittus - Consultoria Asociada S.A.S.",
+      companylogo: require("./assets/images/cittus.png"),
+      date: "Feb 2019 – Jun 2019",
+      descBullets: [
+        "Design and construction of different mobile transport and mobility solutions.",
+        "Construction of mobile applications and REST API services.",
+        "Creation of Websites and CMS for data display.",
+      ],
     },
   ],
 };
@@ -194,12 +198,20 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/",
+      image: require("./assets/images/supernode.png"),
+      link: "https://github.com/supermavster/Supernode",
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/",
+      image: require("./assets/images/z-devs.png"),
+      link: "https://github.com/Z-Devs-platzi/",
+    },
+    {
+      image: require("./assets/images/recoverid.png"),
+      link: "https://github.com/C3-Zally",
+    },
+    {
+      image: require("./assets/images/transport-center.png"),
+      link: "https://github.com/TransportCenter",
     },
   ],
 };
@@ -213,38 +225,33 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Leading Digital Transformation",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Learn and improve leadership skills in the Digital Transformation through new technologies in the industry.",
+      image: require("./assets/images/mit.png"),
       footerLink: [
         {
           name: "Certification",
           url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
-        },
-        {
-          name: "Award Letter",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
-        },
-        {
-          name: "Google Code-in Blog",
-          url:
-            "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html",
-        },
+            "https://www.credential.net/05a15924-822e-4681-99a2-b34216124614?username=miguelngeltorresvargas",
+        }
       ],
     },
     {
-      title: "Google Assistant Action",
+      title: "Development Backend",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Learn all skills in backend development, competent to deal with changes in an efficient way. high capabilities in analysis, diagnosis, evaluation, and implementation of solutions. Responsible management of technology within an administrative and humanistic framework.",
+      image: require("./assets/images/platzi.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "Backend with PHP",
           url:
-            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en",
+            "https://www.credential.net/134432ae-c1ba-4671-b433-b8adc74d9594?username=miguelngeltorresvargas",
+        },
+        {
+          name: "All Backend Skills",
+          url:
+            "https://platzi.com/@Mavsters/",
         },
       ],
     },
@@ -280,7 +287,7 @@ const blogSection = {
     },
     {
       url: "https://supermavsters.com",
-      title: "My dev personal Blog site",
+      title: "My dev personal Blog site (In Progress)",
       description:
         "A new website / blogging in Laravel with Blade where I post tutorials that mainly focus on development.",
     },
@@ -325,10 +332,10 @@ const contactInfo = {
   email_address: "ingeniero.miguelvargas@gmail.com",
 };
 
-//Twitter Section
-const twitterDetails = {
-  userName: "supermavster", //Replace "twitter" with your twitter username without @
-};
+// //Twitter Section
+// const twitterDetails = {
+//   userName: "supermavster", //Replace "twitter" with your twitter username without @
+// };
 export {
   greeting,
   socialMediaLinks,
@@ -342,5 +349,5 @@ export {
   blogSection,
   // talkSection, podcastSection,
   contactInfo,
-  twitterDetails,
+  // twitterDetails,
 };

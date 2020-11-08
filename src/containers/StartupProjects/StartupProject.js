@@ -32,7 +32,7 @@ export default function StartupProject() {
                     className="saaya-health-div"
                     onClick={() => openProjectInNewWindow(project.link)}
                   >
-                    <img alt="Supermavster Working" src={project.image}></img>
+                    <img alt="Supermavster Working" src={project.image} width="300" ></img>
                   </div>
                 );
               })}
