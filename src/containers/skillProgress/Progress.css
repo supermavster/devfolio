@@ -6,6 +6,7 @@
     -webkit-border-radius: 25px;
     border-radius: 25px;
     border: 0.5px solid white;
+    margin: 8px auto 15px auto;
 }
 .meter > span {
     display: block;
