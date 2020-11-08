@@ -2,14 +2,14 @@
 ### Docker Commands
 
 ```
-1) BUILD IMAGE : docker build -t developerfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 developerfolio:latest
+1) BUILD IMAGE : docker build -t devfolio:latest .
+2) RUN IMAGE: docker run -t -p 3000:3000 devfolio:latest
 ```
 
 
-## How To Use 
+## How To Use devfolio
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run devfolio:
 
 ```bash
 # Clone this repository
@@ -34,7 +34,7 @@ Generate a Github personal access token following these [instructions](https://h
 Note: Instead of creating a .env file, you can just run this command "cp env.example .env" inside the root directory
 
 ```bash
-- DeveloperFolio
+- devfolio
   - node_modules
   - public
   - src
@@ -57,10 +57,6 @@ Set `showGithubProfile` to true or false to show Contact Profile using Github, d
 Note: Open Source Projects section only show pinned items of your Github.
 If you are seeing something as shown below, follow these [instructions](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile).
 
-![ERROR](https://i.imgur.com/Hj6mu1K.png)
-
-If the above solution still doesn't work, visit the [wiki page](https://github.com/supermavster/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
-
 ## Change and customize every section according to your need.
 
 #### Personalize page content in `/src/portfolio.js` & modify it as per your need.
@@ -72,7 +68,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Supermavster",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1EZ6t0OOWfBfo5-csMoN7ulC94oYKG4oZ/view"
 };
 
 const socialMediaLinks = {
