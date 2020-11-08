@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/devfolio/static/css/main.f4a89933.chunk.css",
-    "main.js": "/devfolio/static/js/main.11c9ffec.chunk.js",
-    "main.js.map": "/devfolio/static/js/main.11c9ffec.chunk.js.map",
-    "runtime-main.js": "/devfolio/static/js/runtime-main.a54d34c4.js",
-    "runtime-main.js.map": "/devfolio/static/js/runtime-main.a54d34c4.js.map",
-    "static/js/2.80ff2d47.chunk.js": "/devfolio/static/js/2.80ff2d47.chunk.js",
-    "static/js/2.80ff2d47.chunk.js.map": "/devfolio/static/js/2.80ff2d47.chunk.js.map",
+    "main.js": "/devfolio/static/js/main.fc70a625.chunk.js",
+    "main.js.map": "/devfolio/static/js/main.fc70a625.chunk.js.map",
+    "runtime-main.js": "/devfolio/static/js/runtime-main.daaff6ff.js",
+    "runtime-main.js.map": "/devfolio/static/js/runtime-main.daaff6ff.js.map",
+    "static/js/2.448658b6.chunk.js": "/devfolio/static/js/2.448658b6.chunk.js",
+    "static/js/2.448658b6.chunk.js.map": "/devfolio/static/js/2.448658b6.chunk.js.map",
     "static/css/3.23267c2e.chunk.css": "/devfolio/static/css/3.23267c2e.chunk.css",
-    "static/js/3.3b40c72d.chunk.js": "/devfolio/static/js/3.3b40c72d.chunk.js",
-    "static/js/3.3b40c72d.chunk.js.map": "/devfolio/static/js/3.3b40c72d.chunk.js.map",
+    "static/js/3.92b8f236.chunk.js": "/devfolio/static/js/3.92b8f236.chunk.js",
+    "static/js/3.92b8f236.chunk.js.map": "/devfolio/static/js/3.92b8f236.chunk.js.map",
     "static/css/4.39bee05c.chunk.css": "/devfolio/static/css/4.39bee05c.chunk.css",
-    "static/js/4.fc24ea03.chunk.js": "/devfolio/static/js/4.fc24ea03.chunk.js",
-    "static/js/4.fc24ea03.chunk.js.map": "/devfolio/static/js/4.fc24ea03.chunk.js.map",
+    "static/js/4.0e941a6b.chunk.js": "/devfolio/static/js/4.0e941a6b.chunk.js",
+    "static/js/4.0e941a6b.chunk.js.map": "/devfolio/static/js/4.0e941a6b.chunk.js.map",
     "index.html": "/devfolio/index.html",
-    "precache-manifest.4d677c80c21e0c7f800fd81c10956d16.js": "/devfolio/precache-manifest.4d677c80c21e0c7f800fd81c10956d16.js",
+    "precache-manifest.dcba5fb77c29aadcea6a02915992d355.js": "/devfolio/precache-manifest.dcba5fb77c29aadcea6a02915992d355.js",
     "service-worker.js": "/devfolio/service-worker.js",
     "static/css/3.23267c2e.chunk.css.map": "/devfolio/static/css/3.23267c2e.chunk.css.map",
     "static/css/4.39bee05c.chunk.css.map": "/devfolio/static/css/4.39bee05c.chunk.css.map",
@@ -43,6 +43,7 @@
     "static/media/pwa.webp": "/devfolio/static/media/pwa.ad31c3ed.webp",
     "static/media/pwaLogo.webp": "/devfolio/static/media/pwaLogo.e5c355a5.webp",
     "static/media/saayaHealthLogo.webp": "/devfolio/static/media/saayaHealthLogo.b62e5d42.webp",
+    "static/media/sena.jpg": "/devfolio/static/media/sena.0e1ae0f7.jpg",
     "static/media/skill.gif": "/devfolio/static/media/skill.743281f0.gif",
     "static/media/skill.svg": "/devfolio/static/media/skill.fda25c7c.svg",
     "static/media/stanfordLogo.png": "/devfolio/static/media/stanfordLogo.35bb2933.png",
@@ -53,9 +54,9 @@
     "static/media/uniboyaca.jpg": "/devfolio/static/media/uniboyaca.a093dba5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a54d34c4.js",
-    "static/js/2.80ff2d47.chunk.js",
+    "static/js/runtime-main.daaff6ff.js",
+    "static/js/2.448658b6.chunk.js",
     "static/css/main.f4a89933.chunk.css",
-    "static/js/main.11c9ffec.chunk.js"
+    "static/js/main.fc70a625.chunk.js"
   ]
 }

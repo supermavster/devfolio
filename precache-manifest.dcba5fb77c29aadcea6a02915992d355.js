@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08d28408bc68394cd011dd86b0a62fd4",
+    "revision": "85bc4ce4a01d32cdc852300309017dc9",
     "url": "/devfolio/index.html"
   },
   {
-    "revision": "2a900b9ab85618277db4",
+    "revision": "c2cf7c7152e7218694df",
     "url": "/devfolio/static/css/3.23267c2e.chunk.css"
   },
   {
-    "revision": "8a8f3d26a8c78064ae49",
+    "revision": "4c6b434b0405129ef7b0",
     "url": "/devfolio/static/css/4.39bee05c.chunk.css"
   },
   {
-    "revision": "0cbf540f60e680f14f96",
+    "revision": "fcc9cf8eec2727133914",
     "url": "/devfolio/static/css/main.f4a89933.chunk.css"
   },
   {
-    "revision": "18a5917f18ad0f650a16",
-    "url": "/devfolio/static/js/2.80ff2d47.chunk.js"
+    "revision": "ae822d22510c770ff4d7",
+    "url": "/devfolio/static/js/2.448658b6.chunk.js"
   },
   {
-    "revision": "2a900b9ab85618277db4",
-    "url": "/devfolio/static/js/3.3b40c72d.chunk.js"
+    "revision": "c2cf7c7152e7218694df",
+    "url": "/devfolio/static/js/3.92b8f236.chunk.js"
   },
   {
-    "revision": "8a8f3d26a8c78064ae49",
-    "url": "/devfolio/static/js/4.fc24ea03.chunk.js"
+    "revision": "4c6b434b0405129ef7b0",
+    "url": "/devfolio/static/js/4.0e941a6b.chunk.js"
   },
   {
-    "revision": "0cbf540f60e680f14f96",
-    "url": "/devfolio/static/js/main.11c9ffec.chunk.js"
+    "revision": "fcc9cf8eec2727133914",
+    "url": "/devfolio/static/js/main.fc70a625.chunk.js"
   },
   {
-    "revision": "d6faee81a846e63bd3ab",
-    "url": "/devfolio/static/js/runtime-main.a54d34c4.js"
+    "revision": "32bfa96a7e4a746abef8",
+    "url": "/devfolio/static/js/runtime-main.daaff6ff.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b62e5d4242333e1d2ef5196e84ab67e9",
     "url": "/devfolio/static/media/saayaHealthLogo.b62e5d42.webp"
+  },
+  {
+    "revision": "0e1ae0f797d417ba0f9000ea9fde1de1",
+    "url": "/devfolio/static/media/sena.0e1ae0f7.jpg"
   },
   {
     "revision": "743281f095fdbed57155b02ffc2547a0",
