@@ -5,6 +5,7 @@
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
     border-radius: 25px;
+    border: 0.5px solid white;
 }
 .meter > span {
     display: block;
@@ -17,6 +18,7 @@
     border-color: #1a2226;
     position: relative;
     overflow: hidden;
+    border-radius: 25px;
 }
 .skill{
     line-height: 1.5vw;

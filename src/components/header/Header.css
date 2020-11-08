@@ -149,6 +149,9 @@
 @media (min-width: 48em) {
   .header li {
     float: left;
+    min-height: 56px;
+    display: flex;
+    align-items: center;
   }
   .header {
     display: flex;

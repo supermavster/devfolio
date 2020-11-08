@@ -142,6 +142,13 @@
     font-size: 18px;
   }
 }
+
 .blog-card-shadow {
+  box-shadow: 0 10px 30px -15px rgba(0,0,0,.2);
+  border-radius: 10px;
+  border: 1px solid hsla(0,0%,82.7%,.397);
+}
+
+.blog-card-shadow:hover, .blog-card-shadow:active, .blog-card-shadow:focus {
   box-shadow: 1px 0px 20px #ffffff;
 }

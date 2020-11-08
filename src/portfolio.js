@@ -9,7 +9,7 @@ const greeting = {
   username: "Supermavster",
   title: "Hi all, I'm Miguel Ángel",
   subTitle: emoji(
-    "A passionate Software Developer 🚀 having an experience of building Web applications with JavaScript / TypeScript / Nodejs / PHP / Python and some other cool libraries and frameworks."
+    "A passionate Software Developer :rocket: with experience building Web applications with JavaScript / TypeScript / Nodejs / PHP / Python and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1EZ6t0OOWfBfo5-csMoN7ulC94oYKG4oZ/view?usp=sharing",
@@ -29,7 +29,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What i do",
   subTitle:
-    "FULL STACK DEVELOPER (EMPHASIS BACKEND) WHO WANTS TO EXPLORE EVERY TECH STACK",
+    "FULL STACK DEVELOPER (BACKEND EMPHASIS) WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean / Google Cloud / Heroku"
@@ -150,7 +150,7 @@ const educationInfo = {
       subHeader: "Software Quality, Analysis, Design and Testing",
       duration: "February 2018 - October 2019",
       desc:
-        "Feedback and Learning in the basic competences and diverse architectures that all software must have when managing the software engineering in a project.",
+        "Feedback and Learning in basic competences and diverse architectures that all software must have when managing the system engineering in a project.",
     },
     {
       schoolName: "Universidad de Boyacá",
@@ -158,7 +158,7 @@ const educationInfo = {
       subHeader: "Systems Engineer",
       duration: "February 2015 - September 2019",
       desc:
-        "Solid knowledge of the mathematical and theoretical foundations of Computing, Software Industry, through the conception and creation of environments, installations and innovative projects of computer applications.",
+        "Solid knowledge of mathematical and theoretical foundations of Computing, Software Industry, through the conception and creation of environments, installations and innovative projects of computer applications.",
     },
   ],
 };
