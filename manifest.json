@@ -1,0 +1,25 @@
+{
+  "short_name": "Supermavster Portfolio",
+  "name": "Supermavster Portfolio",
+  "icons": [
+    {
+      "src": "/devfolio/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/devfolio/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/devfolio/android-chrome-384x384.png?v8=qAJ44G5Bm7",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00b7e2",
+  "background_color": "#ffffff"
+}
