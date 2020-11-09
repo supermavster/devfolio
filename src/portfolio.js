@@ -9,7 +9,7 @@ const greeting = {
   username: "Supermavster",
   title: "Hi all, I'm Miguel Ángel",
   subTitle: emoji(
-    "A passionate Software Developer :rocket: with experience building Web applications with JavaScript / TypeScript / Nodejs / PHP / Python and some other cool libraries and frameworks."
+    "A passionate Software Developer 🚀 with experience building Web applications with JavaScript / TypeScript / Nodejs / PHP / Python and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1EZ6t0OOWfBfo5-csMoN7ulC94oYKG4oZ/view?usp=sharing",
