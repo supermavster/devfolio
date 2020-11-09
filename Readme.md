@@ -1,13 +1,13 @@
 # Developer Folio
-### Docker Commands
 
-```
-1) BUILD IMAGE : docker build -t devfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 devfolio:latest
-```
+![Build and Deploy](https://github.com/supermavster/devfolio/workflows/Build%20and%20Deploy/badge.svg?branch=main)
 
+## Docker Commands
 
-## How To Use devfolio
+1. BUILD IMAGE : `docker build -t devfolio:latest .`
+2. RUN IMAGE: `docker run -t -p 3000:3000 devfolio:latest`
+
+## How To Use Devfolio
 
 From your command line, clone and run devfolio:
 
