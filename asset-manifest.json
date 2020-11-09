@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/devfolio/static/css/main.0038a85b.chunk.css",
+    "main.css": "/devfolio/static/css/main.7bf00482.chunk.css",
     "main.js": "/devfolio/static/js/main.5d852423.chunk.js",
     "main.js.map": "/devfolio/static/js/main.5d852423.chunk.js.map",
     "runtime-main.js": "/devfolio/static/js/runtime-main.89c6839d.js",
     "runtime-main.js.map": "/devfolio/static/js/runtime-main.89c6839d.js.map",
-    "static/js/2.448658b6.chunk.js": "/devfolio/static/js/2.448658b6.chunk.js",
-    "static/js/2.448658b6.chunk.js.map": "/devfolio/static/js/2.448658b6.chunk.js.map",
+    "static/js/2.9914bdf4.chunk.js": "/devfolio/static/js/2.9914bdf4.chunk.js",
+    "static/js/2.9914bdf4.chunk.js.map": "/devfolio/static/js/2.9914bdf4.chunk.js.map",
     "static/css/3.23267c2e.chunk.css": "/devfolio/static/css/3.23267c2e.chunk.css",
     "static/js/3.09d106c2.chunk.js": "/devfolio/static/js/3.09d106c2.chunk.js",
     "static/js/3.09d106c2.chunk.js.map": "/devfolio/static/js/3.09d106c2.chunk.js.map",
@@ -14,11 +14,11 @@
     "static/js/4.0e941a6b.chunk.js": "/devfolio/static/js/4.0e941a6b.chunk.js",
     "static/js/4.0e941a6b.chunk.js.map": "/devfolio/static/js/4.0e941a6b.chunk.js.map",
     "index.html": "/devfolio/index.html",
-    "precache-manifest.bfa9f64c64c4a2dc8b9301ce053b9c03.js": "/devfolio/precache-manifest.bfa9f64c64c4a2dc8b9301ce053b9c03.js",
+    "precache-manifest.5ae3067925df39ad50e861a0e915029a.js": "/devfolio/precache-manifest.5ae3067925df39ad50e861a0e915029a.js",
     "service-worker.js": "/devfolio/service-worker.js",
     "static/css/3.23267c2e.chunk.css.map": "/devfolio/static/css/3.23267c2e.chunk.css.map",
     "static/css/4.a2f09747.chunk.css.map": "/devfolio/static/css/4.a2f09747.chunk.css.map",
-    "static/css/main.0038a85b.chunk.css.map": "/devfolio/static/css/main.0038a85b.chunk.css.map",
+    "static/css/main.7bf00482.chunk.css.map": "/devfolio/static/css/main.7bf00482.chunk.css.map",
     "static/media/index.css": "/devfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/appsco.jpg": "/devfolio/static/media/appsco.99b01f25.jpg",
     "static/media/appsolution.png": "/devfolio/static/media/appsolution.00ed0c72.png",
@@ -55,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.89c6839d.js",
-    "static/js/2.448658b6.chunk.js",
-    "static/css/main.0038a85b.chunk.css",
+    "static/js/2.9914bdf4.chunk.js",
+    "static/css/main.7bf00482.chunk.css",
     "static/js/main.5d852423.chunk.js"
   ]
 }
