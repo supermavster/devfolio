@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/devfolio/static/css/main.7bf00482.chunk.css",
-    "main.js": "/devfolio/static/js/main.8cfb7454.chunk.js",
-    "main.js.map": "/devfolio/static/js/main.8cfb7454.chunk.js.map",
-    "runtime-main.js": "/devfolio/static/js/runtime-main.645eb0ca.js",
-    "runtime-main.js.map": "/devfolio/static/js/runtime-main.645eb0ca.js.map",
-    "static/js/2.9914bdf4.chunk.js": "/devfolio/static/js/2.9914bdf4.chunk.js",
-    "static/js/2.9914bdf4.chunk.js.map": "/devfolio/static/js/2.9914bdf4.chunk.js.map",
+    "main.js": "/devfolio/static/js/main.f7270670.chunk.js",
+    "main.js.map": "/devfolio/static/js/main.f7270670.chunk.js.map",
+    "runtime-main.js": "/devfolio/static/js/runtime-main.0245e5b0.js",
+    "runtime-main.js.map": "/devfolio/static/js/runtime-main.0245e5b0.js.map",
+    "static/js/2.1c79f7d5.chunk.js": "/devfolio/static/js/2.1c79f7d5.chunk.js",
+    "static/js/2.1c79f7d5.chunk.js.map": "/devfolio/static/js/2.1c79f7d5.chunk.js.map",
     "static/css/3.23267c2e.chunk.css": "/devfolio/static/css/3.23267c2e.chunk.css",
     "static/js/3.09d106c2.chunk.js": "/devfolio/static/js/3.09d106c2.chunk.js",
     "static/js/3.09d106c2.chunk.js.map": "/devfolio/static/js/3.09d106c2.chunk.js.map",
     "static/css/4.a2f09747.chunk.css": "/devfolio/static/css/4.a2f09747.chunk.css",
-    "static/js/4.a63eb15e.chunk.js": "/devfolio/static/js/4.a63eb15e.chunk.js",
-    "static/js/4.a63eb15e.chunk.js.map": "/devfolio/static/js/4.a63eb15e.chunk.js.map",
+    "static/js/4.7171e14c.chunk.js": "/devfolio/static/js/4.7171e14c.chunk.js",
+    "static/js/4.7171e14c.chunk.js.map": "/devfolio/static/js/4.7171e14c.chunk.js.map",
     "index.html": "/devfolio/index.html",
-    "precache-manifest.c61dd05a93fe222c814ca98a3fa04520.js": "/devfolio/precache-manifest.c61dd05a93fe222c814ca98a3fa04520.js",
+    "precache-manifest.0598325d0db5746c94e0ac4b1f1e4d18.js": "/devfolio/precache-manifest.0598325d0db5746c94e0ac4b1f1e4d18.js",
     "service-worker.js": "/devfolio/service-worker.js",
     "static/css/3.23267c2e.chunk.css.map": "/devfolio/static/css/3.23267c2e.chunk.css.map",
     "static/css/4.a2f09747.chunk.css.map": "/devfolio/static/css/4.a2f09747.chunk.css.map",
@@ -54,9 +54,9 @@
     "static/media/uniboyaca.jpg": "/devfolio/static/media/uniboyaca.a093dba5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.645eb0ca.js",
-    "static/js/2.9914bdf4.chunk.js",
+    "static/js/runtime-main.0245e5b0.js",
+    "static/js/2.1c79f7d5.chunk.js",
     "static/css/main.7bf00482.chunk.css",
-    "static/js/main.8cfb7454.chunk.js"
+    "static/js/main.f7270670.chunk.js"
   ]
 }
