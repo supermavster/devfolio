@@ -12,7 +12,7 @@ const greeting = {
     "A passionate Software Developer 🚀 with experience building Web applications with JavaScript / TypeScript / Nodejs / PHP / Python and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1EZ6t0OOWfBfo5-csMoN7ulC94oYKG4oZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1RWVjB6Y8ATwbCvE4dt-nd7FzJ3g0Ttow/view?usp=sharing",
 };
 
 // Your Social Media Link
